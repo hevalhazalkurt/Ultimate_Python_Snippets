@@ -12,7 +12,7 @@ Snippets on Python and packages such as NumPy, Pandas, SciPy, Selenium, Django, 
 
 ## NumPy
 
-| **[`ndarray.shape()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/snippets/numpy_shape.md)** | | |
+| **[`array`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/snippets/numpy_array.md)** | **[`ndarray.shape()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/snippets/numpy_shape.md)** | |
 |--|--|--|
 
 
