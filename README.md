@@ -3,7 +3,17 @@ Snippets on Python and packages such as NumPy, Pandas, SciPy, Selenium, Django, 
 
 ---
 
+## Python Functions
+
+| **[`sorted()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/snippets/python_sorted.md)** | | |
+|--|--|--|
+
+---
+
 ## NumPy
 
 | **[`ndarray.shape()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/snippets/numpy_shape.md)** | | |
 |--|--|--|
+
+
+---
