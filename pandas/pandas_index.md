@@ -1,6 +1,6 @@
 # Ultimate Python Snippets
 ## Pandas
-### `pd.index`
+### `data.index`
 
 
 <br>
@@ -8,7 +8,7 @@
 -----
 
 
-#### What is `pd.index` for?
+#### What is `.index` for?
 
 Immutable ndarray implementing an ordered, sliceable set. The basic object storing axis labels for all pandas objects. With this method we can determine which data column to use as an index.
 
@@ -40,7 +40,7 @@ By default, if we don’t specify another index in some way, every DataFrame has
 
 #### Getting `index` Information
 
-We can use `pd.index` for getting default index column information. The result syntax looks like this :
+We can use `.index` for getting default index column information. The result syntax looks like this :
 
 `RangeIndex(start=0, stop=193, step=1)`
 
