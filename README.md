@@ -5,7 +5,7 @@ Snippets on Python and packages such as NumPy, Pandas, SciPy, Selenium, Django, 
 
 ## Python Functions
 
-| **[`sorted()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_sorted.md)** | | |
+| **[`all()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_all.md)** | **[`sorted()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_sorted.md)** | |
 |--|--|--|
 
 <br>
