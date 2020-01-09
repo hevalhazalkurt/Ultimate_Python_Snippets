@@ -5,7 +5,7 @@ Snippets on Python and packages such as NumPy, Pandas, SciPy, Selenium, Django, 
 
 ## Python Fundamentals
 
-| **[`lists`]()** | | |
+| **[`lists`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_lists.md)** | | |
 |--|--|--|
 
 ---
