@@ -3,9 +3,16 @@ Snippets on Python and packages such as NumPy, Pandas, SciPy, Selenium, Django, 
 
 ---
 
+## Python Fundamentals
+
+| **[`lists`]()** | | |
+|--|--|--|
+
+---
+
 ## Python Functions
 
-| **[`all()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_all.md)** | **[`sorted()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_sorted.md)** | |
+| **[`all()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_all.md)** | **[`max()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_max.md)** | **[`sorted()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_sorted.md)** |
 |--|--|--|
 
 <br>
