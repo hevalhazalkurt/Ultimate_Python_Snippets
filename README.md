@@ -7,8 +7,10 @@ Snippets on Python and packages such as NumPy, Pandas, SciPy, Selenium, Django, 
 
 <br>
 
-| **[`data types`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_data_types.md)** | **[`booleans`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_booleans.md)** | **[`lists`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_lists.md)** | | | |
+| **[`booleans`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_booleans.md)** | **[`data types`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_data_types.md)** | **[`dictionaries`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_dictionaries.md)** | **[`lists`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_lists.md)** | **[`numbers`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_numbers.md)** | **[`operators`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_operators.md)** |
 |--|--|--|--|--|--|
+|**[`sets`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_sets.md)**| **[`strings`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_strings.md)** | | | | |
+
 
 ---
 
