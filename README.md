@@ -7,7 +7,7 @@ Snippets on Python and packages such as NumPy, Pandas, SciPy, Selenium, Django, 
 
 <br>
 
-| **[`lists`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_lists.md)** | | | | | |
+| **[`booleans`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_booleans.md)** | **[`lists`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/python/python_lists.md)** | | | | |
 |--|--|--|--|--|--|
 
 ---
