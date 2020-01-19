@@ -43,7 +43,7 @@ Snippets on Python and packages such as NumPy, Pandas, SciPy, Selenium, Django, 
 
 <br>
 
-| **[`data.apply()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_apply.md)** | **[`data.columns`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_columns.md)** | **[`data.index`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_index.md)** | | | |
+| **[`data.apply()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_apply.md)** | **[`data.columns`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_columns.md)** | **[`data.index`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_index.md)** | **[`data.iterrows()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_iterrows.md)** | | |
 |--|--|--|--|--|--|
 
 
