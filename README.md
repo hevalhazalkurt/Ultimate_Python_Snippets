@@ -43,8 +43,10 @@ Snippets on Python and packages such as NumPy, Pandas, SciPy, Selenium, Django, 
 
 <br>
 
-| **[`data.apply()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_apply.md)** | **[`data.columns`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_columns.md)** | **[`data.iloc[]`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_iloc.md)** | **[`data.index`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_index.md)** | **[`data.iterrows()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_iterrows.md)** | **[`data.loc[]`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_loc.md)**  |
+
+| **[`data.apply()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_apply.md)** | **[`data.columns`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_columns.md)** | **[`data.head()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_head.md)** | **[`data.iloc[]`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_iloc.md)** | **[`data.index`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_index.md)** | **[`data.iterrows()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_iterrows.md)** |
 |--|--|--|--|--|--|
+| **[`data.loc[]`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/pandas/pandas_loc.md)** |  |  |  |  | |
 
 
 <br>
