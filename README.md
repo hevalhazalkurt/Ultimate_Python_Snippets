@@ -26,6 +26,16 @@ Snippets on Python and packages such as NumPy, Pandas, SciPy, Selenium, Django, 
 
 ---
 
+
+## Django
+
+| **[`include()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/django/django_include.md)** | **[`path()`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/django/django_path.md)**  | **[`startproject`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/django/django_startproject.md)**  | | | |
+|--|--|--|--|--|--|
+
+<br>
+
+---
+
 ## NumPy
 
 <br>
