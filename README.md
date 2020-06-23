@@ -62,3 +62,17 @@ Snippets on Python and packages such as NumPy, Pandas, SciPy, Selenium, Django, 
 <br>
 
 ---
+
+
+## MySQL
+
+<br>
+
+| **[`mysql.connector`](https://github.com/hevalhazalkurt/Ultimate_Python_Snippets/blob/master/mysql/mysql_connector.md)** |  |  |  |  |  |
+|--|--|--|--|--|--|
+|  |  |  |  |  | |
+
+
+<br>
+
+---
